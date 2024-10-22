@@ -2,4 +2,14 @@
     <string name="app_name">TFG-Salva</string>
     <string name="channelName">Notifications</string>
     <string name="channelDescription">Live games</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Login Google -->
+    <string name="sign_in_google">Have a Google account?</string>
+    <string name="server_client_id">391080147348-6lcb832j6ctjqgo03b2ksvcoergpo0lr.apps.googleusercontent.com</string>
+    <string name="oauth_client_id">391080147348-jl5ea31lbvm39k9021t6j6lp35homssb.apps.googleusercontent.com</string>
+    <string name="web_application_client_id">391080147348-la5lsdp2133cjg4rd54fa8no5ijnjdvj.apps.googleusercontent.com</string>
+    <string name="client_secret">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</string>
+    <string name="web_application_secret">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</string>
 </resources>

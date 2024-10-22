@@ -43,7 +43,6 @@ class Notifier(val context: Context) {
 
     private fun notification(title: String, content: String) : Notification {
         val bigTextStyle = NotificationCompat.BigTextStyle().bigText(content)
-
         val builder = NotificationCompat.Builder(context, context.getString(R.string.channelName))
         builder.setSmallIcon(androidx.loader.R.drawable.notification_bg)
         builder.setContentTitle(title)

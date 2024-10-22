@@ -22,7 +22,7 @@ def sendNotification(topic, gameAndTime, message):
             response = messaging.send(message)
             sentResponse = True
         except Exception as e:
-            print(Fore.RED + str(e))
+            print(Fore.RED + str(e) + Fore.RESET)
             time.sleep(1)
 
     print('Successfully sent message:', response)

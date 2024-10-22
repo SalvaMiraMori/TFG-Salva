@@ -1,0 +1,4 @@
+colorama~=0.4.4
+tqdm~=4.62.2
+boto3~=1.26.1
+requests~=2.25.1
